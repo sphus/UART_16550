@@ -16,7 +16,7 @@
 > - 具有FIFO数据量指示功能
 
 ## 系统框图
-![frame](notes\images\frame.png)
+![frame](https://github.com/sphus/UART_16550/blob/main/notes/images/frame.png)
 
 ## 设计
 
