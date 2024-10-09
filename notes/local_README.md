@@ -16,7 +16,7 @@
 > - 具有FIFO数据量指示功能
 
 ## 系统框图
-![frame](https://github.com/sphus/UART_16550/blob/main/notes/images/frame.png)
+![frame](notes\images\frame.png)
 
 ## 设计
 
@@ -40,7 +40,7 @@
     - 方法：跨时钟域的信号上加上两级或多级同步触发器
 
 ## FIFO与串口信号传输采用握手信号法
- ![Handshake](https://github.com/sphus/UART_16550/blob/main/notes/images/Handshake.webp)
+ ![Handshake](notes\images\Handshake.webp)
 
 
 # FIFO设计
@@ -50,7 +50,7 @@ First In First Out
 
 ## 同步FIFO
 框图
-![FIFO_sync_frame](https://github.com/sphus/UART_16550/blob/main/notes/images/FIFO_sync_frame.webp)
+![FIFO_sync_frame](notes\images\FIFO_sync_frame.webp)
 - FIFO深度
     - 深度设置为15
     - 数据宽度8bit
@@ -66,12 +66,12 @@ First In First Out
 - FIFO数据状态指示
     - fifo_cnt，它的值为写指针与读指针的差值。表示FIFO中剩余的数据量
 
-对应代码[UART_FIFO_sync.v](https://github.com/sphus/UART_16550/blob/main/notes/codes/UART_FIFO_sync.v)
+对应代码[UART_FIFO_sync.v](notes/codes/UART_FIFO_sync.v)
 
 # 格雷码实现状态机,读写指针
 格雷码从一个数变为下一个数时只有一位发生变化，避免产生错误的空满标志。
 
-格雷码与8421码的转换可见于[格雷码.md](https://github.com/sphus/UART_16550/blob/main/notes/格雷码.md)
+格雷码与8421码的转换可见于[格雷码.md](notes/格雷码.md)
 
 # 串口接收部分
 
@@ -100,7 +100,7 @@ First In First Out
     <summary>
     接收状态机框图
     </summary>
-    <img src="https://github.com/sphus/UART_16550/blob/main/notes/images/UART_RX_state.png"/> 
+    <img src="notes\images\UART_RX_state.png"/> 
 </details>
 
 ## 接收FIFO部分
@@ -109,7 +109,7 @@ First In First Out
     <summary>
     接收FIFO状态机框图
     </summary>
-    <img src="https://github.com/sphus/UART_16550/blob/main/notes/images/RX_FIFO_state.png"/> 
+    <img src="notes\images\RX_FIFO_state.png"/> 
 </details>
 
 # 串口发送部分
@@ -137,7 +137,7 @@ First In First Out
     <summary>
     发送状态机框图
     </summary>
-    <img src="https://github.com/sphus/UART_16550/blob/main/notes/images/UART_TX_state.png"/> 
+    <img src="notes\images\UART_TX_state.png"/> 
 </details>
 
 ## 发送FIFO部分
@@ -146,7 +146,7 @@ First In First Out
     <summary>
     发送FIFO状态机框图
     </summary>
-    <img src="https://github.com/sphus/UART_16550/blob/main/notes/images/TX_FIFO_state.png"/> 
+    <img src="notes\images\TX_FIFO_state.png"/> 
 </details>
 
 # 待完成功能
