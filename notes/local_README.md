@@ -16,7 +16,7 @@
 > - 具有FIFO数据量指示功能
 
 ## 系统框图
-![frame](notes\images\frame.png)
+![frame](images\frame.png)
 
 ## 设计
 
@@ -40,7 +40,7 @@
     - 方法：跨时钟域的信号上加上两级或多级同步触发器
 
 ## FIFO与串口信号传输采用握手信号法
- ![Handshake](notes\images\Handshake.webp)
+ ![Handshake](images\Handshake.webp)
 
 
 # FIFO设计
@@ -50,7 +50,7 @@ First In First Out
 
 ## 同步FIFO
 框图
-![FIFO_sync_frame](notes\images\FIFO_sync_frame.webp)
+![FIFO_sync_frame](images\FIFO_sync_frame.webp)
 - FIFO深度
     - 深度设置为15
     - 数据宽度8bit
@@ -100,7 +100,7 @@ First In First Out
     <summary>
     接收状态机框图
     </summary>
-    <img src="notes\images\UART_RX_state.png"/> 
+    <img src="images\UART_RX_state.png"/> 
 </details>
 
 ## 接收FIFO部分
@@ -109,7 +109,7 @@ First In First Out
     <summary>
     接收FIFO状态机框图
     </summary>
-    <img src="notes\images\RX_FIFO_state.png"/> 
+    <img src="images\RX_FIFO_state.png"/> 
 </details>
 
 # 串口发送部分
@@ -137,7 +137,7 @@ First In First Out
     <summary>
     发送状态机框图
     </summary>
-    <img src="notes\images\UART_TX_state.png"/> 
+    <img src="images\UART_TX_state.png"/> 
 </details>
 
 ## 发送FIFO部分
@@ -146,7 +146,7 @@ First In First Out
     <summary>
     发送FIFO状态机框图
     </summary>
-    <img src="notes\images\TX_FIFO_state.png"/> 
+    <img src="images\TX_FIFO_state.png"/> 
 </details>
 
 # 待完成功能
