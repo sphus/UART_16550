@@ -40,7 +40,7 @@
     - 方法：跨时钟域的信号上加上两级或多级同步触发器
 
 ## FIFO与串口信号传输采用握手信号法
- ![Handshake](https://github.com/sphus/UART_16550/blob/main/notes/images/Handshake.webp)
+ ![Handshake](https://github.com/sphus/UART_16550/blob/main/notes/images/Handshake.png)
 
 
 # FIFO设计
@@ -50,7 +50,8 @@ First In First Out
 
 ## 同步FIFO
 框图
-![FIFO_sync_frame](https://github.com/sphus/UART_16550/blob/main/notes/images/FIFO_sync_frame.webp)
+
+![FIFO_sync_frame](https://github.com/sphus/UART_16550/blob/main/notes/images/FIFO_sync_frame.png)
 - FIFO深度
     - 深度设置为15
     - 数据宽度8bit
