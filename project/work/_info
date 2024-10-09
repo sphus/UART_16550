@@ -1,0 +1,172 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/work_soft/FPGA_soft/ModelSim_SE_10_5/examples
+vtb_UART_FIFO_sync
+Z0 !s110 1728439722
+!i10b 1
+!s100 5i[CFN9fWTB4ijJ_b]WMz2
+IE:1k5mc=1RLJg^^LLESPG3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/work_file/FPGA/learning/hubulab_training/UART/UART/project
+w1727873607
+8D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_FIFO_sync.v
+FD:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_FIFO_sync.v
+L0 3
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1728439722.038000
+!s107 D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_FIFO_sync.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_FIFO_sync.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+ntb_@u@a@r@t_@f@i@f@o_sync
+vtb_uart_rx
+R0
+!i10b 1
+!s100 oQm_`WDngTOWgUmW@lD2[0
+IozD`WTl>Q4H_1m?^SZJ?F3
+R1
+R2
+w1728367412
+8D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_RX.v
+FD:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_RX.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1728439722.118000
+!s107 D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_RX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_RX.v|
+!i113 0
+R4
+vtb_UART_TOP
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 zGIE4oCIGZUzSTQi:mBke2
+IGI^O]h4OL>NaNz9968ajm1
+R2
+w1728439719
+8D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TOP.v
+FD:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TOP.v
+L0 3
+R3
+!s108 1728439722.199000
+!s107 D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TOP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TOP.v|
+!i113 0
+R4
+ntb_@u@a@r@t_@t@o@p
+vtb_UART_TX
+R0
+!i10b 1
+!s100 8Fg^<B]5aGH>AL80[9H:c1
+IR>0XfQ9:HG3dA^IMcN5Mk1
+R1
+R2
+w1728383326
+8D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TX.v
+FD:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TX.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1728439722.285000
+!s107 D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TX.v|
+!i113 0
+R4
+ntb_@u@a@r@t_@t@x
+vUART_FIFO_sync
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 5olNe>O^kS[JSPgE4F4gn0
+ImS561YY8^dTm?SmQZM<F22
+R2
+w1728362724
+8D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_FIFO_sync.v
+FD:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_FIFO_sync.v
+L0 2
+R3
+!s108 1728439721.706000
+!s107 D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_FIFO_sync.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_FIFO_sync.v|
+!i113 0
+R4
+n@u@a@r@t_@f@i@f@o_sync
+vUART_RX
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 GOdfzB;80Oe3IR7A_iW9H2
+I[6hf91kPE2D<To_>ak1Fg0
+R2
+w1728389485
+8D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_RX.v
+FD:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_RX.v
+L0 1
+R3
+!s108 1728439721.784000
+!s107 D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_RX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_RX.v|
+!i113 0
+R4
+n@u@a@r@t_@r@x
+vUART_TOP
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Mn<i59]P_LQ@>e1h<l=?Z2
+Id`;b4YoWk]OFPQbg2ilzf0
+R2
+w1728439346
+8D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TOP.v
+FD:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TOP.v
+L0 1
+R3
+!s108 1728439721.873000
+!s107 D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TOP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TOP.v|
+!i113 0
+R4
+n@u@a@r@t_@t@o@p
+vUART_TX
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 1:@^lCCOZN3`J9J:8@Clk1
+I=2M0Xi0Cb4lz<Mc2OlAS21
+R2
+w1728389986
+8D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TX.v
+FD:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TX.v
+L0 1
+R3
+!s108 1728439721.953000
+!s107 D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TX.v|
+!i113 0
+R4
+n@u@a@r@t_@t@x

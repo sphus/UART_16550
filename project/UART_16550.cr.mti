@@ -1,0 +1,57 @@
+D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TOP.v {1 {vlog -work work -vopt -stats=none D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TOP.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_UART_TOP
+
+Top level modules:
+	tb_UART_TOP
+
+} {} {}} D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TOP.v {1 {vlog -work work -vopt -stats=none D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TOP.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module UART_TOP
+
+Top level modules:
+	UART_TOP
+
+} {} {}} D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TX.v {1 {vlog -work work -vopt -stats=none D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TX.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_UART_TX
+
+Top level modules:
+	tb_UART_TX
+
+} {} {}} D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_FIFO_sync.v {1 {vlog -work work -vopt -stats=none D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_FIFO_sync.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_UART_FIFO_sync
+
+Top level modules:
+	tb_UART_FIFO_sync
+
+} {} {}} D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TX.v {1 {vlog -work work -vopt -stats=none D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TX.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module UART_TX
+
+Top level modules:
+	UART_TX
+
+} {} {}} D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_FIFO_sync.v {1 {vlog -work work -vopt -stats=none D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_FIFO_sync.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module UART_FIFO_sync
+
+Top level modules:
+	UART_FIFO_sync
+
+} {} {}} D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_RX.v {1 {vlog -work work -vopt -stats=none D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_RX.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_uart_rx
+
+Top level modules:
+	tb_uart_rx
+
+} {} {}} D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_RX.v {1 {vlog -work work -vopt -stats=none D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_RX.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module UART_RX
+
+Top level modules:
+	UART_RX
+
+} {} {}}

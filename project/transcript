@@ -1,0 +1,143 @@
+# Compile of UART_FIFO_sync.v was successful.
+# Compile of UART_RX.v was successful.
+# Compile of UART_TOP.v was successful.
+# Compile of UART_TX.v was successful.
+# Compile of tb_UART_FIFO_sync.v was successful.
+# Compile of tb_UART_RX.v was successful.
+# Compile of tb_UART_TOP.v was successful.
+# Compile of tb_UART_TX.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui -novopt work.tb_UART_TOP
+# vsim -gui 
+# Start time: 10:01:31 on Oct 09,2024
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.tb_UART_TOP
+# Loading work.tb_UART_TOP
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_TOP
+# Loading work.UART_TOP
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_RX
+# Loading work.UART_RX
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_FIFO_sync
+# Loading work.UART_FIFO_sync
+# ** Error: (vsim-3033) D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TOP.v(65): Instantiation of 'UART_tx' failed. The design unit was not found.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_UART_TOP/UART_TOP_inst File: D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TOP.v
+#         Searched libraries:
+#             D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work
+# Error loading design
+# Compile of UART_FIFO_sync.v was successful.
+# Compile of UART_RX.v was successful.
+# Compile of UART_TOP.v was successful.
+# Compile of UART_TX.v was successful.
+# Compile of tb_UART_FIFO_sync.v was successful.
+# Compile of tb_UART_RX.v was successful.
+# Compile of tb_UART_TOP.v was successful.
+# Compile of tb_UART_TX.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui -novopt work.tb_UART_TOP
+# vsim 
+# Start time: 10:02:38 on Oct 09,2024
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.tb_UART_TOP
+# Loading work.tb_UART_TOP
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_TOP
+# Loading work.UART_TOP
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_RX
+# Loading work.UART_RX
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_FIFO_sync
+# Loading work.UART_FIFO_sync
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_TX
+# Loading work.UART_TX
+# ** Error: (vsim-3389) D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TOP.v(199): Port 'rx_rstn' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_UART_TOP/UART_TOP_inst File: D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TOP.v
+# ** Error: (vsim-3389) D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TOP.v(199): Port 'tx_rstn' not found in the connected module (12th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_UART_TOP/UART_TOP_inst File: D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TOP.v
+# ** Fatal: (vsim-3365) D:/work_file/FPGA/learning/hubulab_training/UART/UART/sim/tb_UART_TOP.v(199): Too many port connections. Expected 23, found 24.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_UART_TOP/UART_TOP_inst File: D:/work_file/FPGA/learning/hubulab_training/UART/UART/rtl/UART_TOP.v
+# FATAL ERROR while loading design
+# Error loading design
+# Compile of UART_FIFO_sync.v was successful.
+# Compile of UART_RX.v was successful.
+# Compile of UART_TOP.v was successful.
+# Compile of UART_TX.v was successful.
+# Compile of tb_UART_FIFO_sync.v was successful.
+# Compile of tb_UART_RX.v was successful.
+# Compile of tb_UART_TOP.v was successful.
+# Compile of tb_UART_TX.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui -novopt work.tb_UART_TOP
+# vsim 
+# Start time: 10:07:10 on Oct 09,2024
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.tb_UART_TOP
+# Loading work.tb_UART_TOP
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_TOP
+# Loading work.UART_TOP
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_RX
+# Loading work.UART_RX
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_FIFO_sync
+# Loading work.UART_FIFO_sync
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_TX
+# Loading work.UART_TX
+add wave -position insertpoint sim:/tb_UART_TOP/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of UART_FIFO_sync.v was successful.
+# Compile of UART_RX.v was successful.
+# Compile of UART_TOP.v was successful.
+# Compile of UART_TX.v was successful.
+# Compile of tb_UART_FIFO_sync.v was successful.
+# Compile of tb_UART_RX.v was successful.
+# Compile of tb_UART_TOP.v was successful.
+# Compile of tb_UART_TX.v was successful.
+# 8 compiles, 0 failed with no errors.
+run
+vsim -gui -novopt work.tb_UART_TOP
+# vsim 
+# Start time: 10:08:52 on Oct 09,2024
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.tb_UART_TOP
+# Loading work.tb_UART_TOP
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_TOP
+# Loading work.UART_TOP
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_RX
+# Loading work.UART_RX
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_FIFO_sync
+# Loading work.UART_FIFO_sync
+# Refreshing D:/work_file/FPGA/learning/hubulab_training/UART/UART/project/work.UART_TX
+# Loading work.UART_TX
+add wave -position insertpoint sim:/tb_UART_TOP/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Causality operation skipped due to absence of debug database file
+# End time: 10:13:14 on Oct 09,2024, Elapsed time: 0:04:22
+# Errors: 0, Warnings: 2
